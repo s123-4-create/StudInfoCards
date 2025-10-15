@@ -1,16 +1,26 @@
-# React + Vite
+# 🎓 Student Information Hub
+A responsive web application for managing student profiles, built with **React**, **Vite**, and a modular component structure. Designed for clarity, speed, and a smooth user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+- 📋 Add, edit, and delete student records
+- 🖼️ Profile-style cards with gender icons and responsive layout
+- 🎨 Clean UI with expressive styling and hover effects
+- ⚡ Fast builds and hot reloads via Vite
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+| Frontend | Build Tool | Styling | Deployment |
+|----------|------------|---------|------------|
+| React    | Vite       | CSS3    | Netlify    |
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## 📸 Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Image Alt](https://github.com/s123-4-create/StudInfoCards/blob/main/Screenshot%202025-10-14%20213642.png?raw=true)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🧠 Learnings & Highlights
+
+- Practiced modular code organization and reusable components
+- Debugged import issues and optimized rendering logic
+- Focused on responsive design and user-friendly interaction
