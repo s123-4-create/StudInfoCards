@@ -1,6 +1,6 @@
 import "./Home.css";
 import { STUDENT_DATA } from "../components/configs/students";
-import StudentCard from "../components/studentcard/StudentCard";
+import StudentCard from "../components/studentcard/StudentCard.jsx";
 import { APP_NAME ,APP_DESCRIPTION, BG_COLOR , PRIMARY_COLOR, SECONDARY_COLOR} from "../components/configs/app";
 
 
@@ -38,5 +38,6 @@ function Home() {
         </div>
   )
 }
+
 
 export default Home;
